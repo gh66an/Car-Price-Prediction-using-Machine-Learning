@@ -28,17 +28,15 @@ You can install the dependencies by running:
 pip install -r requirements.txt
 
 ## How to Run the Project
-**Clone the repository:
-
+1. **Clone the repository**:
 ```bash
 git clone https://github.com/yourusername/Car-Price-Prediction-using-Machine-Learning.git
 
-**Navigate to the project directory and open the Jupyter notebook:
-
+2. **Navigate to the project directory and open the Jupyter notebook**:
 ```bash
 jupyter notebook Car_Price_Prediction.ipynb
 
 Run all cells to preprocess the data, train the models, and evaluate the results.
 
-##Results
+## Results
 The project outputs the accuracy of the Linear Regression, Ridge Regression, and Lasso Regression models, and visualizes the comparison between predicted and actual car prices.

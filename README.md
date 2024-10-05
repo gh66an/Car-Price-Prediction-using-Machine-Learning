@@ -26,7 +26,7 @@ You can install the dependencies by running:
 
 ```bash
 pip install -r requirements.txt
-
+```
 ## How to Run the Project
 1. **Clone the repository**:
 ```bash
